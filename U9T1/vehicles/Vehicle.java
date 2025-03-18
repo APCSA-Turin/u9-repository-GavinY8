@@ -1,4 +1,4 @@
-package U9T1;
+package U9T1.vehicles;
 
 public class Vehicle {
     private String name;

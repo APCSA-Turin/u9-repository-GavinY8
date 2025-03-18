@@ -1,4 +1,4 @@
-package U9T1;
+package U9T1.vehicles;
 
 public class Bicycle extends Vehicle {
     private int gearCount;
